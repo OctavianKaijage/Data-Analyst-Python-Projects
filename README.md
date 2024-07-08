@@ -1,4 +1,4 @@
-Investigating Netflix movies
+## Investigating Netflix movies
 <center><img src="redpopcorn.jpg"></center>
 This project is an analysis of movies released during the 1990s using data from Netflix with Python tools.
 **Netflix**! What started in 1997 as a DVD rental service has since exploded into one of the largest entertainment and media companies.
